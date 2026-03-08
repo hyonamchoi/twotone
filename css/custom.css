@@ -1,0 +1,12 @@
+/* Custom.css < Do your own thing! */
+
+body {
+    background: transparent;
+}
+
+/* STUDIO TWOTONE logo size */
+.navbar-brand img {
+    height: 28px;
+    width: auto;
+    position: absolute;
+}
